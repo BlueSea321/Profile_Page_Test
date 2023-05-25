@@ -1,0 +1,12 @@
+[
+    {
+        "username": "seller",
+        "password": "U2FsdGVkX19fXNNWL6fhjJwAXq01m69+bIzx6mfVgVI=",
+        "role": 1
+    },
+    {
+        "username": "buyer",
+        "password": "U2FsdGVkX1+fzPGvLuVcAZX2tQJtDdjGZAQ/01XYuSY=",
+        "role": 2
+    }
+]
