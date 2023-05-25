@@ -64,32 +64,31 @@ yarn start
 <br />
 
 ### You can log in with the credentials below.
-
 <br />
 
 ### owner
 ### username: seller 
 ### password: seller123!@#
-
 <br />
 
 ### buyer
 ### username: buyer
 ### password: buyer123!@#
-
 <br />
 
-### If logged in as the owner, you can add/remove products from localstorage(db).
+### If logged in as the seller, you can add/remove products from localstorage(db).
 ### You can also edit profile information and save it to localstorage.
 ### You can also edit order of products as you like.
+<br />
 
 ### If logged in as the buyer, you can add/remove products to/from your carts.
+<br />
 
 ### If you are not logged in, you can only view profile information and products.
 
 <br />
 
-# Packages Used :package:
+# Packages Used
 
 | Client Side Packages  |
 | :-------------: |
